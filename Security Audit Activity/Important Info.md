@@ -22,5 +22,5 @@ There are two categories of files that are present in this folder
 - Botium Toys Company Profile[^note]
 - Botium Toys Risk Assessment Summary
 
-[^note]: The information provided in this document was given to help the student (in this case me) get and idea of what 
+[^note]: The information provided in this document was given to help the student (in this case me) get an idea of what 
 type of company Botium Toys is and why this mock audit is being done
